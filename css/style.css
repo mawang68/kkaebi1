@@ -203,7 +203,7 @@ margin-bottom-xxsmall {
  * ============================================================ */
 .card {
     position: relative;
-   box-shadow: 2px 2px 2px rgb(255, 255, 255, 0.8);
+   box-shadow: 3px 3px 3px rgb(128, 128, 128, 0.5);
     border-radius: var(--border-radius);
     background-color: var(--color-black-1);
     transition: background 0.3s ease-in-out;
